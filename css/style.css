@@ -42,7 +42,7 @@ section{
 
 .about-us .find-out {
     width: auto;
-    height: 50px;
+    height: 55px;
     margin: 0px 18px 0px;
   
 }
@@ -50,7 +50,7 @@ section{
     width: 95%;
 }
 .features-items{
-    border-radius: 20px;
+    border-radius: 17px;
 }
 .features {
     margin-left: 13px;
@@ -73,13 +73,11 @@ section{
     margin: 14px 16px;
     border-radius: 20px;
 }
-.backpack-card{
-    border:0;
+.backpack-card {
+    border: 0;
+    border-radius: 17px;
 }
-.backpack-card-footer{
-  background-color: white;
-  border: 0;
-}
+
 .backpack-title{
     font-size: 22px;
     color: #363958;
