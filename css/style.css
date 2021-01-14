@@ -1,0 +1,119 @@
+body{
+    font-family: 'Roboto', sans-serif; 
+}
+.company-logo img {
+    width: 60%;
+}
+
+#navbarNav ul li a {
+    font-size: 17px;
+    color: black;
+    padding: 10px 20px;
+}
+.homepage{
+    background-color: #FFFFF4
+}
+section{
+    padding: 65px 0;
+}
+.homepage h1{
+    color: #363958;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+}
+.name{
+    color: #76C27E;
+}
+.homepage p{
+    font-size: 18px;
+}
+.homepage img{
+    width: 85%;
+}
+
+.btn-product-buy {
+    background-color: #2A1E59;
+    border: 0;
+    padding: 12px 17px;
+    color: white;
+    border-radius: 7px;
+}
+
+.about-us .find-out {
+    width: auto;
+    height: 50px;
+    margin: 0px 18px 0px;
+  
+}
+.about-us img {
+    width: 95%;
+}
+.features-items{
+    border-radius: 20px;
+}
+.features {
+    margin-left: 13px;
+}
+
+.features-text h5 {
+    font-size: 22px;
+    color: #363958;
+    font-weight: bold;
+    margin-top: 6px;
+}
+.header-title{
+    font-size: 35px;
+    font-weight: 700;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.backpack {
+    background-color: #F1F1F1;
+    margin: 14px 16px;
+    border-radius: 20px;
+}
+.backpack-card{
+    border:0;
+}
+.backpack-card-footer{
+  background-color: white;
+  border: 0;
+}
+.backpack-title{
+    font-size: 22px;
+    color: #363958;
+    font-weight: 700;
+    
+}
+.dollar{
+    color: #76C27E;
+    font-weight: bold;
+}
+
+.contactus {
+    background-color: #F1F1F1;
+}
+.contactus input{
+    height: 45px;
+}
+
+footer {
+     background-color: #0B081A;
+    }
+
+@media (max-width: 567px) {
+    .company-logo img {
+        width: 200px;
+    }
+    .about-us img{
+        width: 100%;
+    }
+}
+
+ 
+  
+  
+  
+
+ 
